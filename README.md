@@ -15,29 +15,6 @@
 </a>  
 
 
-
-## Ana Hedefim 📈
-<table><tr><td valign="top">
-Yazılım alanında projeler üretip kendimi geliştirmek. İnsanların kalbine az da olsa dokunabileceğim oyunlar geliştirmek...
-</td></tr></table>  
-
-<br/>  
-
-## 2021 Hedeflerim 📈
-
-<table><tr><td valign="top">
-  
--  C# ve Python dillerinin farklı alanlarında daha çok proje geliştirmek.
--  React, React Native öğrenmek.
--  Dart bilgimi geliştirip Flutter öğrenmek.
--  HTML, CSS ile önyüz proje geliştirmek.
--  Restful yapılarla proje geliştirmek.
--  Sınıfı bitirmek 🤨
--  Kişisel siteme daha çok blog içeriği eklemek.
-</td></tr></table>
-
-<br/>
-
 ## Hakkımda
 <table><tr><td valign="top">
 
@@ -46,7 +23,37 @@ Yazılım alanında projeler üretip kendimi geliştirmek. İnsanların kalbine 
 -  🎮 Unity ile 2D-3D oyunlar ve paketler geliştirip yayınlıyorum.
 -  🌶 Python Flask ile Dinamik Web Siteleri geliştiriyorum.
 -  📰 [Blog](https://latifyilmaz.com)umdan tüm projelerime ulaşabilirsiniz..
+</td></tr></table>
 
+<br/>
+
+<table><tr><td valign="top">
+
+## Hakkımda
+
+-  👦🏻 16 yaşındayım. Fen Lisesi 2. Sınıf öğrencisiyim.
+-  🤓 Şu an çalıştığım proje:  [Game Architecture](https://github.com/LatifY/GameArchitecture)
+-  🎮 Unity ile 2D-3D oyunlar ve paketler geliştirip yayınlıyorum.
+-  🌶 Python Flask ile Dinamik Web Siteleri geliştiriyorum.
+-  📰 [Blog](https://latifyilmaz.com)umdan tüm projelerime ulaşabilirsiniz..
+
+<br>
+
+## Ana Hedefim 📈
+
+Yazılım alanında projeler üretip kendimi geliştirmek. İnsanların kalbine az da olsa dokunabileceğim oyunlar geliştirmek...
+
+<br>
+
+## 2021 Hedeflerim 📈
+
+-  C# ve Python dillerinin farklı alanlarında daha çok proje geliştirmek.
+-  React, React Native öğrenmek.
+-  Dart bilgimi geliştirip Flutter öğrenmek.
+-  HTML, CSS ile önyüz proje geliştirmek.
+-  Restful yapılarla proje geliştirmek.
+-  Sınıfı bitirmek 🤨
+-  Kişisel siteme daha çok blog içeriği eklemek.
 
 <br/>  
 
