@@ -26,6 +26,7 @@ Yazılım alanında projeler üretip kendimi geliştirmek. İnsanların kalbine 
 ## 2021 Hedeflerim 📈
 
 <table><tr><td valign="top">
+  
 -  C# ve Python dillerinin farklı alanlarında daha çok proje geliştirmek.
 -  React, React Native öğrenmek.
 -  Dart bilgimi geliştirip Flutter öğrenmek.
@@ -33,6 +34,7 @@ Yazılım alanında projeler üretip kendimi geliştirmek. İnsanların kalbine 
 -  Restful yapılarla proje geliştirmek.
 -  Sınıfı bitirmek 🤨
 -  Kişisel siteme daha çok blog içeriği eklemek.
+-  
 </td></tr></table>
 
 <br/>
