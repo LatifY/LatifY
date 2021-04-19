@@ -29,16 +29,6 @@
 
 <table><tr><td valign="top">
 
-## Hakkımda
-
--  👦🏻 16 yaşındayım. Fen Lisesi 2. Sınıf öğrencisiyim.
--  🤓 Şu an çalıştığım proje:  [Game Architecture](https://github.com/LatifY/GameArchitecture)
--  🎮 Unity ile 2D-3D oyunlar ve paketler geliştirip yayınlıyorum.
--  🌶 Python Flask ile Dinamik Web Siteleri geliştiriyorum.
--  📰 [Blog](https://latifyilmaz.com)umdan tüm projelerime ulaşabilirsiniz..
-
-<br>
-
 ## Ana Hedefim 📈
 
 Yazılım alanında projeler üretip kendimi geliştirmek. İnsanların kalbine az da olsa dokunabileceğim oyunlar geliştirmek...
