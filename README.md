@@ -15,7 +15,7 @@
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
 <a href="https://latifyilmaz.com" target="_blank">
-<img src="https://latifyilmaz.com/static/image/favicon.png" style="margin-bottom: 5px;" />
+<img src="https://latifyilmaz.com/static/image/favicon.png" style="margin-bottom: 5px;" width="32" height="32"/>
 </a>  
 
 
