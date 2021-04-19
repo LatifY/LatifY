@@ -19,6 +19,7 @@
 <table><tr><td valign="top">
 
 -  👦🏻 16 yaşındayım. Fen Lisesi 2. Sınıf öğrencisiyim.
+-  💻 Yaklaşık 5 yıldır yazılım ve oyun geliştirme ile ilgileniyorum.
 -  🤓 Şu an çalıştığım proje:  [Game Architecture](https://github.com/LatifY/GameArchitecture)
 -  🎮 Unity ile 2D-3D oyunlar ve paketler geliştirip yayınlıyorum.
 -  🌶 Python Flask ile Dinamik Web Siteleri geliştiriyorum.
