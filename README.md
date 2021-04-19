@@ -34,7 +34,6 @@ Yazılım alanında projeler üretip kendimi geliştirmek. İnsanların kalbine 
 -  Restful yapılarla proje geliştirmek.
 -  Sınıfı bitirmek 🤨
 -  Kişisel siteme daha çok blog içeriği eklemek.
--  
 </td></tr></table>
 
 <br/>
