@@ -42,7 +42,7 @@ Yazılım alanında projeler üretip kendimi geliştirmek. İnsanların kalbine 
 -  React, React Native öğrenmek.
 -  Dart bilgimi geliştirip Flutter ile Mobil uygulamalar geliştirmek.
 -  HTML, CSS ile önyüz proje geliştirmek.
--  Restful yapılarla proje geliştirmek.
+-  Restful yapılarla multi-platform proje geliştirmek.
 -  Sınıfı bitirmek 🤨
 -  Kişisel siteme daha çok blog içeriği eklemek.
 
