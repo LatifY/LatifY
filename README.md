@@ -57,6 +57,7 @@ Yazılım alanında projeler üretip kendimi geliştirmek. İnsanların kalbine 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java" width="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" alt="Flask" width="40"/>
 <img src="https://seeklogo.com/images/U/unity-logo-988A22E703-seeklogo.com.png" alt="Unity" width="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="40"/>
