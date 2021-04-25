@@ -52,7 +52,7 @@ Yazılım alanında projeler üretip kendimi geliştirmek. İnsanların kalbine 
 ## Yetenekler
 
 <p align="center">
-<img style="background-color:white; border-radius:5px; padding:3px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40">
+<img style="background-color:black; border-radius:5px; padding:3px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40">
 <img style="background-color:white; border-radius:5px; padding:3px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40"/>
 <img style="background-color:white; border-radius:5px; padding:3px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40"/>
 <img style="background-color:white; border-radius:5px; padding:3px;" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40"/>
