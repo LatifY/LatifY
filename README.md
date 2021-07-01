@@ -18,12 +18,16 @@
 ## Hakkımda
 <table><tr><td valign="top">
 
--  👦🏻 16 yaşındayım. Fen Lisesi 2. Sınıf öğrencisiyim.
+-  👦🏻 16 yaşındayım. Fen Lisesi 3. Sınıf öğrencisiyim.
 -  💻 Yaklaşık 5 yıldır yazılım ve oyun geliştirme ile ilgileniyorum.
 -  🤓 Şu an çalıştığım proje:  [Game Architecture](https://github.com/LatifY/GameArchitecture)
 -  🎮 Unity ile 2D-3D oyunlar ve paketler geliştirip yayınlıyorum.
--  🌶 Python Flask ile Dinamik Web Siteleri geliştiriyorum.
--  📰 [Blog](https://latifyilmaz.com)umdan tüm projelerime ulaşabilirsiniz..
+-  🌶 Python Flask ile Dinamik Web Siteleri ve API'ler geliştiriyorum.
+-  ⚛ React ile Front-End Mimariler üzerinde çalışıyorum.
+-  🍃 Spring Boot ile Back-End Mimariler üzerinde çalışıyorum.
+-  🔵 Flutter ile mobil uygulamalar geliştiriyorum.
+-  🔴 React Native öğreniyorum.
+-  📰 [Blogumdan](https://latifyilmaz.com) tüm projelerime ulaşabilirsiniz..
 </td></tr></table>
 
 <br/>
@@ -38,32 +42,70 @@ Yazılım alanında projeler üretip kendimi geliştirmek. İnsanların kalbine 
 
 ## 2021 Hedeflerim 📈
 
--  C#, Python ve Java dillerinin farklı alanlarında daha çok proje geliştirmek.
--  React, React Native öğrenmek.
--  Dart bilgimi geliştirip Flutter ile Mobil uygulamalar geliştirmek.
--  HTML, CSS ile önyüz proje geliştirmek.
--  Restful yapılarla multi-platform proje geliştirmek.
--  Sınıfı bitirmek 🤨
--  Kişisel siteme daha çok blog içeriği eklemek.
+-  C#, Python ve Java dillerinin farklı alanlarında daha çok proje geliştirmek. ✅
+-  React, React Native öğrenmek. ✅
+-  Dart bilgimi geliştirip Flutter ile Mobil uygulamalar geliştirmek. ✅
+-  HTML, CSS ile önyüz proje geliştirmek. ✅
+-  Restful yapılarla multi-platform proje geliştirmek. ✅
+-  Sınıfı bitirmek 🤨 ✅
+-  Kişisel siteme daha çok blog içeriği eklemek. ✅
 
 <br/>  
 
 
 ## Yetenekler
 
-<p align="center" style="padding:5px">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40">
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" alt="Flask" width="40"/>
-<img src="https://seeklogo.com/images/U/unity-logo-988A22E703-seeklogo.com.png" alt="Unity" width="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" alt="Flutter" width="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg" alt="Heroku" width="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" alt="Dart" width="40"/>
+### Yazılım Dilleri
+<p align="left" style="padding:5px">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="50">
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java" width="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="Javascript" width="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" alt="Dart" width="50"/>
+</p>
+  
+### Frameworkler
+<p align="left" style="padding:5px">
+<img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" alt="Flask" width="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" alt="Spring" width="50"/>
+</p>
+  
+### SDK'ler
+<p align="left" style="padding:5px">
+<img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" alt="Flutter" width="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React" width="50"/>  
+</p>
+  
+### Front-End
+<p align="left" style="padding:5px">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="Sass" width="50"/>
+</p>
+  
+### Veritabanları
+<p align="left" style="padding:5px">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="60" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="60" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original.svg" alt="SQLAlchemy" width="60" />
+  <img src="https://cdn.iconscout.com/icon/free/png-512/sqlite-282687.png" alt="SQLite" width="60" />
+</p>
+  
+### Sunucular
+<p align="left" stlye="padding:5px">
+<img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg" alt="Heroku" width="50"/>
+<img src="https://iconape.com/wp-content/files/an/371180/svg/371180.svg" alt="Netlify" width="50"/>
+</p>
+
+### Yazılımlar
+<p align="left" style="padding:5px">
+<img src="https://seeklogo.com/images/U/unity-logo-988A22E703-seeklogo.com.png" alt="Unity" width="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="50"/>
+<img src="https://cdn.iconscout.com/icon/free/png-512/intellij-idea-569199.png" alt="Intellij Idea" width="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg" alt="Pg Admin" width="50"/>
+<img src="https://cdn2.iconfinder.com/data/icons/pack1-baco-flurry-icons-style/512/XAMPP.png" alt="Xampp" width="50"/>
 </p>
 
 
