@@ -1,5 +1,4 @@
 ## Merhaba, 👋 Ben Latif Yılmaz!  
-  
 
 <a href="https://github.com/LatifY" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -12,8 +11,10 @@
 </a>
 <a href="https://latifyilmaz.com" target="_blank">
 <img src="https://latifyilmaz.com/static/image/favicon.png" style="margin-bottom: 5px;" width="32" height="32"/>
-</a>  
+</a>
 
+
+![Profile views counter](https://komarev.com/ghpvc/?username=LatifY&&style=flat-square)  
 
 ## Hakkımda
 <table><tr><td valign="top">
@@ -90,6 +91,7 @@ Yazılım alanında projeler üretip kendimi geliştirmek. İnsanların kalbine 
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="60" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original.svg" alt="SQLAlchemy" width="60" />
   <img src="https://cdn.iconscout.com/icon/free/png-512/sqlite-282687.png" alt="SQLite" width="60" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" alt="Firebase" width="60" />
 </p>
   
 ### Sunucular
@@ -126,7 +128,7 @@ Yazılım alanında projeler üretip kendimi geliştirmek. İnsanların kalbine 
 
 <br/>  
 
-![Profile views counter](https://komarev.com/ghpvc/?username=LatifY&&style=flat-square)  
+
   
 
 <br/>  
