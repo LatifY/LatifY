@@ -69,6 +69,7 @@ Yazılım alanında projeler üretip kendimi geliştirmek. İnsanların kalbine 
 <p align="left" style="padding:5px">
 <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" alt="Flask" width="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" alt="Spring" width="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="Redux" width="50"/>
 </p>
   
 ### SDK'ler
