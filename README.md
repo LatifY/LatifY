@@ -20,6 +20,7 @@
 <table><tr><td valign="top">
 
 -  👦🏻 16 yaşındayım. Fen Lisesi 3. Sınıf öğrencisiyim.
+-  🦠 COVID-19 Takip uygulaması: [TRACKOVID](https://www.trackovid.live)'in geliştiricisiyim.
 -  💻 Yaklaşık 5 yıldır yazılım ve oyun geliştirme ile ilgileniyorum.
 -  🤓 Şu an çalıştığım proje:  [Game Architecture](https://github.com/LatifY/GameArchitecture)
 -  🎮 Unity ile 2D-3D oyunlar ve paketler geliştirip yayınlıyorum.
