@@ -1,13 +1,16 @@
 ## Merhaba, 👋 Ben Latif Yılmaz!  
 
 <a href="https://github.com/LatifY" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt="github" style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.linkedin.com/in/abdullatif-y%C4%B1lmaz-912a6b1b9/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt="linkedin" style="margin-bottom: 5px;" />
 </a>
 <a href="https://instagram.com/latifyilmaza" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt="instagram" style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.trackovid.live" target="_blank">
+<img src="https://lh3.googleusercontent.com/-bvw8COULHjQ/YTDnqXfUejI/AAAAAAAABVM/NTb_3ocwDP4OksLLwzmaat-L2fmGBkjowCLcBGAsYHQ/trackovid.png" width="123" height="28" alt="trackovid" style="margin-bottom: 5px;" />
 </a>
 <a href="https://latifyilmaz.com" target="_blank">
 <img src="https://latifyilmaz.com/static/image/favicon.png" style="margin-bottom: 5px;" width="32" height="32"/>
