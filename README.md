@@ -45,6 +45,7 @@ Yazılım alanında projeler üretip kendimi geliştirmek. İnsanların kalbine 
 
 <br>
 
+  <!---
 ## 2021 Hedeflerim 📈
 
 - ✅  C#, Python ve Java dillerinin farklı alanlarında daha çok proje geliştirmek.
@@ -56,6 +57,7 @@ Yazılım alanında projeler üretip kendimi geliştirmek. İnsanların kalbine 
 - ✅  Kişisel siteme daha çok blog içeriği eklemek.
 
 <br/>  
+-->
 
 
 ## Yetenekler
