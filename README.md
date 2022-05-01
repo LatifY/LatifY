@@ -39,10 +39,6 @@
 
 <table><tr><td valign="top">
 
-## Ana Hedefim 📈
-
-Yazılım alanında projeler üretip kendimi geliştirmek. İnsanların kalbine az da olsa dokunabileceğim oyunlar geliştirmek...
-
 <br>
 
   <!---
