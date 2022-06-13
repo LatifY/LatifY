@@ -22,7 +22,7 @@
 ## Hakkımda
 <table><tr><td valign="top">
 
--  👦🏻 17 yaşındayım. Fen Lisesi 3. Sınıf öğrencisiyim.
+-  👦🏻 17 yaşındayım. Fen Lisesi 4. Sınıf öğrencisiyim.
 -  🦠 COVID-19 Takip uygulaması: [TRACKOVID](https://www.trackovid.live)'in geliştiricisiyim.
 -  💻 Yaklaşık 5 yıldır yazılım ve oyun geliştirme ile ilgileniyorum.
 -  🤓 Şu an çalıştığım proje:  [TRACKOVID](https://www.trackovid.live)
