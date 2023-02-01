@@ -9,7 +9,7 @@
 <a href="https://instagram.com/latifyilmaza" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt="instagram" style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.trackovid.live" target="_blank">
+<a href="https://www.trackovid19.netlify.app" target="_blank">
 <img src="https://lh3.googleusercontent.com/-2hCaRJ5uKiQ/YTDn-I02lnI/AAAAAAAABVU/2ej0AEh4cHcbHoN46peDk4Mua3Y74eG2gCLcBGAsYHQ/trackovid_dark.png" width="123" height="28" alt="trackovid" style="margin-bottom: 5px;" />
 </a>
 <a href="https://latifyilmaz.com" target="_blank">
@@ -23,9 +23,9 @@
 <table><tr><td valign="top">
 
 -  👦🏻 18 yaşındayım. Fen Lisesi 4. Sınıf öğrencisiyim.
--  🦠 COVID-19 Takip uygulaması: [TRACKOVID](https://www.trackovid.live)'in geliştiricisiyim.
+-  🦠 COVID-19 Takip uygulaması: [TRACKOVID](https://www.trackovid19.netlify.app)'in geliştiricisiyim.
 -  💻 Yaklaşık 5 yıldır yazılım ve oyun geliştirme ile ilgileniyorum.
--  🤓 Şu an çalıştığım proje:  [TRACKOVID](https://www.trackovid.live)
+-  🤓 Şu an çalıştığım proje:  [TRACKOVID](https://www.trackovid19.netlify.app)
 -  🎮 Unity ile 2D-3D oyunlar ve paketler geliştirip yayınlıyorum.
 -  🌶 Python Flask ile Dinamik Web Siteleri ve API'ler geliştiriyorum.
 -  ⚛ React ile Front-End Mimariler üzerinde çalışıyorum.
