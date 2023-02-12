@@ -3,7 +3,7 @@
 <a href="https://github.com/LatifY" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt="github" style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.linkedin.com/in/abdullatif-y%C4%B1lmaz-912a6b1b9/" target="_blank">
+<a href="https://www.linkedin.com/in/latifyilmaz/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt="linkedin" style="margin-bottom: 5px;" />
 </a>
 <a href="https://instagram.com/latifyilmaza" target="_blank">
