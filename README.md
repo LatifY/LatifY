@@ -22,7 +22,7 @@
 ## Hakkımda
 <table><tr><td valign="top">
 
--  👦🏻 18 yaşındayım. Fen Lisesi 4. Sınıf öğrencisiyim.
+-  👦🏻 18 yaşındayım. GTÜ Bilgisayar 1. Sınıf öğrencisiyim.
 -  🦠 COVID-19 Takip uygulaması: [TRACKOVID](https://trackovid19.netlify.app)'in geliştiricisiyim.
 -  💻 Yaklaşık 5 yıldır yazılım ve oyun geliştirme ile ilgileniyorum.
 -  🤓 Şu an çalıştığım proje:  [zelzele.live](https://www.zelzele.live)
