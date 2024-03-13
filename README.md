@@ -22,9 +22,9 @@
 ## Hakkımda
 <table><tr><td valign="top">
 
--  👦🏻 18 yaşındayım. GTÜ Bilgisayar Hazırlık öğrencisiyim.
+-  👦🏻 19 yaşındayım. GTÜ Bilgisayar Hazırlık öğrencisiyim.
 -  🦠 COVID-19 Takip uygulaması: [TRACKOVID](https://trackovid19.netlify.app)'in geliştiricisiyim.
--  💻 Yaklaşık 5 yıldır yazılım ve oyun geliştirme ile ilgileniyorum.
+-  💻 Yaklaşık 6 yıldır yazılım ve oyun geliştirme ile ilgileniyorum.
 -  🤓 Şu an çalıştığım proje:  [zelzele.live](https://www.zelzele.live)
 -  🎮 Unity ile 2D-3D oyunlar ve paketler geliştirip yayınlıyorum.
 -  🌶 Python Flask ile Dinamik Web Siteleri ve API'ler geliştiriyorum.
