@@ -22,17 +22,15 @@
 ## Hakkımda
 <table><tr><td valign="top">
 
--  👦🏻 19 yaşındayım. GTÜ Bilgisayar Hazırlık öğrencisiyim.
+-  👦🏻 19 yaşındayım. GTÜ Bilgisayar Mühendisliği öğrencisiyim.
 -  🦠 COVID-19 Takip uygulaması: [TRACKOVID](https://trackovid19.netlify.app)'in geliştiricisiyim.
--  💻 Yaklaşık 6 yıldır yazılım ve oyun geliştirme ile ilgileniyorum.
--  🤓 Şu an çalıştığım proje:  [zelzele.live](https://www.zelzele.live)
+-  💻 Yaklaşık 7 yıldır yazılım ve oyun geliştirme ile ilgileniyorum.
 -  🎮 Unity ile 2D-3D oyunlar ve paketler geliştirip yayınlıyorum.
 -  🌶 Python Flask ile Dinamik Web Siteleri ve API'ler geliştiriyorum.
 -  ⚛ React ile Front-End Mimariler üzerinde çalışıyorum.
 -  🍃 Spring Boot ile Back-End Mimariler üzerinde çalışıyorum.
 -  🔵 Flutter ile mobil uygulamalar geliştiriyorum.
 -  🔴 React Native öğreniyorum.
--  📰 [Blogumdan](https://latifyilmaz.com) tüm projelerime ulaşabilirsiniz..
 </td></tr></table>
 
 <br/>
@@ -40,20 +38,6 @@
 <table><tr><td valign="top">
 
 <br>
-
-  <!---
-## 2021 Hedeflerim 📈
-
-- ✅  C#, Python ve Java dillerinin farklı alanlarında daha çok proje geliştirmek.
-- ✅  React, React Native öğrenmek.
-- ✅  Dart bilgimi geliştirip Flutter ile Mobil uygulamalar geliştirmek.
-- ✅  HTML, CSS ile önyüz proje geliştirmek.
-- ✅  Restful yapılarla multi-platform proje geliştirmek.
-- ✅  Sınıfı bitirmek 🤨
-- ✅  Kişisel siteme daha çok blog içeriği eklemek.
-
-<br/>  
--->
 
 
 ## Yetenekler
