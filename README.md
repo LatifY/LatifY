@@ -22,7 +22,7 @@
 ## Hakkımda
 <table><tr><td valign="top">
 
--  👦🏻 19 yaşındayım. GTÜ Bilgisayar Mühendisliği öğrencisiyim.
+-  👦🏻 20 yaşındayım. GTÜ Bilgisayar Mühendisliği öğrencisiyim.
 -  🦠 COVID-19 Takip uygulaması: [TRACKOVID](https://trackovid19.netlify.app)'in geliştiricisiyim.
 -  💻 Yaklaşık 7 yıldır yazılım ve oyun geliştirme ile ilgileniyorum.
 -  🎮 Unity ile 2D-3D oyunlar ve paketler geliştirip yayınlıyorum.
