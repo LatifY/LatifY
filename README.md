@@ -1,4 +1,4 @@
-<a align="center" href="https://latify.github.io/" target="_blank">Hi 👋, I'm Latif</h1>
+<h2 align="center">Hi 👋, I'm Latif</h1>
 <h3 align="center">game & full stack developer from earth 🌎</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=latify&label=Profile%20views&color=0e75b6&style=flat" alt="latify" /> </p>
